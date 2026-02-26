@@ -83,7 +83,7 @@
         <p>Estoy muy enamorada de ti</p>
         <p class="nombre">María Vittoria Torres García</p>
         <button onclick="mensaje()">Haz clic si también me amas 💕</button>
-        <div class="firma">Hecho con amor por A ✨</div>
+        <div class="firma">Hecho con amor por Anghy 🫀</div>
     </div>
 
     <script>
